@@ -141,3 +141,47 @@ wfLoadSkin( 'Vector' );
 # The following extensions were automatically enabled:
 
 $wgFavicon = "$wgResourceBasePath/resources/assets/favicon.ico";
+
+// Add your questions in LocalSettings.php using this format:
+$wgCaptchaQuestions = [
+	'What is the capital of France?' => 'Paris',
+	'What is the capital of Spain' => 'MADRID', // Answers are case insensitive
+	'What is the name of this wiki?' => $wgSitename, // You can use variables
+	'How many fingers does a hand have?' => [ 5, 'five' ], // A question may have many answers
+];
+
+$wgCaptchaTriggers['edit']          = true;
+$wgCaptchaTriggers['create']        = true;
+$wgCaptchaTriggers['createtalk']    = true;
+$wgCaptchaTriggers['addurl']        = true;
+$wgCaptchaTriggers['createaccount'] = true;
+$wgCaptchaTriggers['badlogin']      = true;
+
+# Enabled extensions. Most of the extensions are enabled by adding
+# wfLoadExtension( 'ExtensionName' );
+# to LocalSettings.php. Check specific extension documentation for more details.
+# The following extensions were automatically enabled:
+wfLoadExtension( 'MobileFrontend' );
+wfLoadExtension( 'AbuseFilter' );
+wfLoadExtension( 'CategoryTree' );
+wfLoadExtension( 'Cite' );
+wfLoadExtension( 'CiteThisPage' );
+wfLoadExtension( 'CodeEditor' );
+wfLoadExtension( 'ConfirmEdit' );
+
+wfLoadExtension( 'InputBox' );
+wfLoadExtension( 'Interwiki' );
+wfLoadExtension( 'Math' );
+wfLoadExtension( 'Nuke' );
+wfLoadExtension( 'PageImages' );
+wfLoadExtension( 'ParserFunctions' );
+wfLoadExtension( 'PdfHandler' );
+wfLoadExtension( 'Poem' );
+wfLoadExtension( 'Renameuser' );
+wfLoadExtension( 'ReplaceText' );
+wfLoadExtension( 'Scribunto' );
+wfLoadExtension( 'SyntaxHighlight_GeSHi' );
+wfLoadExtension( 'TemplateData' );
+wfLoadExtension( 'TextExtracts' );
+wfLoadExtension( 'VisualEditor' );
+wfLoadExtension( 'WikiEditor' );

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Irus",
+			"Wadorgurt",
+			"Света Поторочина",
+			"Udmwiki"
+		]
+	},
+	"fancycaptcha-captcha": "Кышкыттэмлыкез эскерон",
+	"fancycaptcha-accountcreate": "Автомат амалэн кылдытэм регистрациослэсь Викиез утён понна, туж куриськом тӥледыз гожтыны кылъёсты, кудъёссэ тӥ адӟиськоды улӥысь рамкаын. ([[Special:Captcha/help|more info]]):",
+	"fancycaptcha-imgcaptcha-ph": "Гожтэ текстэз, кудзэ тӥ суредысь адӟиськоды",
+	"fancycaptcha-reload-text": "Выльдытыны"
+}

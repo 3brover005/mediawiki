@@ -1,0 +1,25 @@
+.client-js {
+	.collapsible-heading {
+		cursor: pointer;
+	}
+
+	.collapsible-heading-disabled {
+		cursor: default;
+
+		.indicator {
+			opacity: 0.5;
+		}
+	}
+}
+
+@media print {
+	.collapsible-heading .indicator {
+		display: none;
+	}
+
+	// need to be this specific in order to override the default style
+	.client-js .collapsible-block {
+		display: block;
+		content-visibility: visible;
+	}
+}

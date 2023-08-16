@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mainframe98",
+			"Siebrand",
+			"Sjoerddebruin"
+		]
+	},
+	"apihelp-parse-param-noimages": "Afbeeldingen uitschakelen in de mobiele uitvoer."
+}
