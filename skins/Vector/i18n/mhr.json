@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Azim",
+			"Sergey Ivanov",
+			"Сай",
+			"Санюн Вадик",
+			"Lifeway",
+			"Венина Наталья Константиновна"
+		]
+	},
+	"vector-languages": "Йылме-влак",
+	"vector-language-button-label": "{{PLURAL:$1|$1 йылме}}",
+	"vector-no-language-button-label": "Йылме-влакым ешараш",
+	"vector-action-addsection": "Темым ешараш",
+	"vector-action-delete": "Кораҥдаш",
+	"vector-action-move": "Лӱмым вашталташ",
+	"vector-action-protect": "Тӧрлатымаш деч аралаш",
+	"vector-action-undelete": "Шӧрымым пӧртылаш",
+	"vector-action-unprotect": "Оролым вашталташ",
+	"vector-view-create": "Ышташ",
+	"vector-view-edit": "Тӧрлаташ",
+	"vector-view-history": "Историйым ончалаш",
+	"vector-view-view": "Лудаш",
+	"vector-view-viewsource": "Тӱҥалтыш текстым ончалаш",
+	"vector-more-actions": "Эше",
+	"vector-searchsuggest-containing": "<strong class=\"cdx-typeahead-search__search-footer__query\">$1</strong> мутан лаштыклам кычалмаш",
+	"vector-toc-label": "Контент",
+	"vector-toc-beginning": "Тӱҥалтыш",
+	"vector-page-tools-label": "Ӱзгар-влак",
+	"vector-page-tools-general-label": "Чумыр",
+	"vector-unpin-element-label": "шылташ"
+}

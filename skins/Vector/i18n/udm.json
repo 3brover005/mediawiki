@@ -1,0 +1,36 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andrewboltachev",
+			"Kaganer",
+			"Kotwys",
+			"Wadorgurt",
+			"Света Поторочина",
+			"Udmwiki"
+		]
+	},
+	"skinname-vector": "Вектор",
+	"vector-opt-out": "Вуж тусэ берытсконо",
+	"vector-languages": "Кылъёс",
+	"vector-language-button-label": "{{PLURAL:$1|$1 кыл}}",
+	"vector-no-language-button-label": "Кылъёсты ватсан",
+	"vector-action-addsection": "Выль тема ватсано",
+	"vector-action-delete": "Быдтоно",
+	"vector-action-move": "Нимзэ воштыны",
+	"vector-action-protect": "Утьыны",
+	"vector-view-create": "Кылдытоно",
+	"vector-view-edit": "Тупатоно",
+	"vector-view-history": "Историзэ учконо",
+	"vector-view-view": "Лыдӟоно",
+	"vector-view-viewsource": "Кодзэ учкыны",
+	"vector-jumptonavigation": "Навигация доры потоно",
+	"vector-jumptosearch": "Утчан доры потоно",
+	"vector-jumptocontent": "Пуштрос доры потоно",
+	"vector-more-actions": "Эшшо",
+	"vector-searchsuggest-containing": "Утчано бамъёсты, кудъёсаз вань <strong class=\"cdx-typeahead-утчан_утчан-улӥ колонтитул__курон\">$1</strong>",
+	"vector-toc-label": "Пуштросэз",
+	"vector-toc-beginning": "Кутскон",
+	"vector-page-tools-label": "Тӥрлык",
+	"vector-page-tools-general-label": "Огъя",
+	"vector-unpin-element-label": "ватыны"
+}
