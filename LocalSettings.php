@@ -172,16 +172,16 @@ wfLoadExtension( 'ConfirmEdit' );
 wfLoadExtension( 'InputBox' );
 wfLoadExtension( 'Interwiki' );
 wfLoadExtension( 'Math' );
-wfLoadExtension( 'Nuke' );
+
 wfLoadExtension( 'PageImages' );
 wfLoadExtension( 'ParserFunctions' );
-wfLoadExtension( 'PdfHandler' );
-wfLoadExtension( 'Poem' );
-wfLoadExtension( 'Renameuser' );
-wfLoadExtension( 'ReplaceText' );
-wfLoadExtension( 'Scribunto' );
-wfLoadExtension( 'SyntaxHighlight_GeSHi' );
-wfLoadExtension( 'TemplateData' );
-wfLoadExtension( 'TextExtracts' );
+
+
+
+
+
+# wfLoadExtension( 'SyntaxHighlight_GeSHi' );
+# wfLoadExtension( 'TemplateData' );
+# wfLoadExtension( 'TextExtracts' );
 wfLoadExtension( 'VisualEditor' );
 wfLoadExtension( 'WikiEditor' );
